@@ -24,7 +24,7 @@ This project is a binary classification model built to predict using a custom ne
    
 **How to Run the Model**
 
-1. Launch the Jupyter Notebook
+1. Launch the Jupyter Notebook (You should have a latest python version after 3.10 
 
 2. Open the notebook file
 
